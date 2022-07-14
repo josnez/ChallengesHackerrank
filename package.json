@@ -1,0 +1,26 @@
+{
+  "name": "challengeshackerrank",
+  "version": "1.0.0",
+  "description": "code of challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "INAH": "node InsertNodeAtHead.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josnez/ChallengesHackerrank.git"
+  },
+  "keywords": [
+    "hackerrank"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josnez/ChallengesHackerrank/issues"
+  },
+  "homepage": "https://github.com/josnez/ChallengesHackerrank#readme",
+  "dependencies": {
+    "jshint": "^2.13.4"
+  }
+}
